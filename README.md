@@ -1,2 +1,3 @@
 # hello-world
-Learning GitHub
+Hello world, whatsup?
+crezting me a first readme file
